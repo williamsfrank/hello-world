@@ -1,2 +1,3 @@
 # hello-world
-learning exercises
+learning exercises to help me learn git
+added personal info
